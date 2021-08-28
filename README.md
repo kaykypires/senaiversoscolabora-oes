@@ -1,4 +1,4 @@
 
 <h1> principais comandos 
 <p> git config
-<p>
+<p>lembrei do comando:git status
